@@ -168,12 +168,13 @@ print(f'Actual class for sample input: {iris.target_names[y_test[5].item()]}')
 
 
 ## Classification Report
-<img width="388" height="68" alt="image" src="https://github.com/user-attachments/assets/97ac1233-bb0c-4264-921b-363116e835c2" />
 
 
-### New Sample Data Prediction
 <img width="477" height="205" alt="image" src="https://github.com/user-attachments/assets/f6e23311-d0a2-4ad9-ac84-6cc3a974081d" />
 
+## New Sample Data Prediction
+
+<img width="388" height="68" alt="image" src="https://github.com/user-attachments/assets/97ac1233-bb0c-4264-921b-363116e835c2" />
 
 ## RESULT
 Thus, a neural network classification model was successfully developed and trained using PyTorch
